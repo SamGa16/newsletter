@@ -1,0 +1,11 @@
+{
+    "logs": "initialization",
+    "paths": [
+        "data\\raw",
+        "data\\processed",
+        "data\\redacted",
+        "generated\\newsletters",
+        "assets\\libs",
+        "assets\\templates"
+    ]
+}
